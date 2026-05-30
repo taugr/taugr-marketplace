@@ -5,7 +5,7 @@ A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-market
 ## Add the marketplace
 
 ```
-/plugin marketplace add taugr/claude-marketplace
+/plugin marketplace add taugr/taugr-marketplace
 ```
 
 ## Install a plugin
