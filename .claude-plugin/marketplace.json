@@ -1,0 +1,30 @@
+{
+  "name": "taugr",
+  "owner": {
+    "name": "Tom Auger"
+  },
+  "metadata": {
+    "description": "Tom Auger's Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "climatenet",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/taugr/climatenet-mcp.git",
+        "path": "plugin"
+      },
+      "description": "Query ClimateNet environmental monitoring data from Armenia — devices, sensors, readings, and comparisons.",
+      "version": "0.1.0",
+      "category": "data",
+      "keywords": [
+        "climate",
+        "environment",
+        "armenia",
+        "sensors",
+        "monitoring",
+        "air-quality"
+      ]
+    }
+  ]
+}
