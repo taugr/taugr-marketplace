@@ -1,6 +1,6 @@
-# taugr — AI coding plugins & tooling
+# taugr — AI plugins
 
-A personal collection of plugins and integrations I build for AI coding tools.
+A personal collection of plugins and integrations I build for AI tools.
 
 Today it ships a **Claude Code** plugin marketplace. Support for other tools
 (OpenAI Codex, Cursor) is planned and will be MCP-based — see [Other tools](#other-tools).
